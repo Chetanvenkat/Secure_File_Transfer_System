@@ -46,9 +46,7 @@ A full-stack **secure file transfer web application** built with **Python (Flask
   - Smooth hover effects & transitions
   - Responsive layout for desktop & mobile
 
-- 📊 **Demo-Ready Security**
-  - Easy to show encryption using **Wireshark**
-  - Good for college mini-projects / final year demos
+
 
 ---
 
